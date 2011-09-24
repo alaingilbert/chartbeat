@@ -1,0 +1,16 @@
+{
+  "author": "Alain Gilbert <alain.gilbert.15@gmail.com> (http://agilbert.name/)",
+  "name": "chartbeat",
+  "description": "A NodeJs wrapper for Chartbeat API",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alaingilbert/chartbeat.git"
+  },
+  "main": "lib/chartbeat.js",
+  "engines": {
+    "node": ">=v0.4.8"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
